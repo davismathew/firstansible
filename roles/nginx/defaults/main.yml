@@ -1,0 +1,11 @@
+---
+# defaults file for nginx
+
+ sites: 
+  myapp:  
+   frontend: 80
+   backend: 80
+
+# myapp2:
+#  frontend: 443
+#  backend: 443
